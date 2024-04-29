@@ -5,3 +5,6 @@ https://github.com/Blonicx/Servon-Api
 
 ## WARNING
 To use the Loader you need to download the Api and put it in the Created Folder!
+
+## Donate
+[Patreon](https://www.patreon.com/Blonicx)
