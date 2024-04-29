@@ -1,4 +1,4 @@
 name: ServonLoader
-version: '${version}'
-main: blonicx.servonloader.ServonLoade
+version: '0.1'
+main: blonicx.servonloader.ServonLoader
 api-version: '1.20'
