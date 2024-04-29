@@ -1,0 +1,4 @@
+name: ServonLoader
+version: '${version}'
+main: blonicx.servonloader.ServonLoade
+api-version: '1.20'
